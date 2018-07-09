@@ -40,5 +40,3 @@ ReactDOM.render(e(LikeButton), domContainer);    //controls the content
 
 
 /************************https://reactjs.org/docs/react-component.html****************************/
-  //Refer this for further explaination (bookmarked)
-
